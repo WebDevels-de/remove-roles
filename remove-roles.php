@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Remove Build-In User Roles
-Plugin URI: https://github.com/WebDevels-de/programm-expopharm-impuls
+Plugin URI: https://github.com/WebDevels-de/remove-roles
 Description: Removes the following Roles: Subscriber, Contributor, Author, Editor, Translator. Just activate the Plugin and disable it again.
 Version: 1.0
 Author: Fatih Gürsu
